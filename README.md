@@ -1,4 +1,4 @@
-# devicejs
+# Inrto
 > A client type recognition library
 
 ## Install
