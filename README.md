@@ -11,6 +11,7 @@ $ npm install devicejs --save
 import device from 'devicejs'
 
 // usage
+console.log( device.mobile )
 console.log( device.phone )
 console.log( device.tablet )
 console.log( device.pc )
@@ -19,9 +20,10 @@ console.log( device.pc )
 ## Api
 
 ### device
-* device.phone
-* device.tablet
-* device.pc
+* device.mobile       // is mobile (phone or tablet)
+* device.phone        // is phone  (only phone)
+* device.tablet       // is tablet (only tablet)
+* device.pc           // is pc     (only pc)
 
 ### device.os
 * device.os.andriod
