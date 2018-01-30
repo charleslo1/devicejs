@@ -35,7 +35,8 @@ console.log( device.pc )
 * device.browser.edge
 * device.browser.chrome
 * device.browser.safari
-* device.browser.wechat
+* device.browser.weixin
+* device.browser.wxapp
 
 ### device.engine
 * device.engine.blink
