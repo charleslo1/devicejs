@@ -46,3 +46,7 @@ console.log( device.pc )
 * device.engine.gecko
 * device.engine.trident
 
+# Links
+[isMobile](https://github.com/kaimallea/isMobile)
+[current-device](https://github.com/matthewhudson/current-device)
+[ua-parser-js](https://github.com/faisalman/ua-parser-js)
