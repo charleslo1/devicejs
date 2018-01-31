@@ -1,5 +1,5 @@
 # Inrto
-> A client type recognition library
+> A device recognition library
 
 ## Install
 ``` sh
